@@ -1,2 +1,0 @@
-# 1menitid
-portal web
